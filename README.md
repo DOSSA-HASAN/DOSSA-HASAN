@@ -31,7 +31,7 @@ Crafting scalable systems from Kenya 🇰🇪
 # 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,flutter,dart,androidstudio,java,spring,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,flutter,dart,androidstudio,git,github,vscode&theme=dark" />
 </p>
 
 ---
