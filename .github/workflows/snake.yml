@@ -15,7 +15,7 @@ jobs:
           github_user_name: DOSSA-HASAN
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00f7ff&color_dots=#2b2b2b            
+            dist/github-contribution-grid-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
