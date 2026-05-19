@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Backend+Systems+Engineer;Mobile+Developer+in+Training;Building+Scalable+Fintech+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Backend+Systems+Engineer;Mobile+Developer+in+Training" />
 </p>
 
 <h3 align="center">
@@ -15,7 +15,6 @@ Crafting scalable systems
 - Fullstack Web Development (MERN)
 - Backend Architecture & APIs
 - Mobile Development (Flutter + Android Studio)
-- Payment & System Integrations
 
 ---
 
