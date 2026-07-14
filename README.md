@@ -18,14 +18,6 @@ Crafting scalable systems
 
 ---
 
-# 🧠 Currently Learning
-
-- Flutter & Dart
-- Android Studio
-- System Design
-
----
-
 # 🛠️ Tech Arsenal
 
 <p align="center">
